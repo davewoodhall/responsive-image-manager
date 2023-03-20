@@ -33,4 +33,5 @@ The default breakpoints are those of Bootstrap 3, as well as a custom breakpoint
 ## Changelog
 
 **v0.0.1 - 2023-03-20**
+
 Initial version
