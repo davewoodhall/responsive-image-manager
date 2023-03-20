@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+.wp-block-dwrim-gutenberg {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	position: relative;
+	padding: 10px;
+	border: 1px solid #ccc;
+	
+	button {
+		height: 120px;
+		width: 120px;
+		margin: 0 5px 5px 0;
+		
+		&.btn-xs,
+		&.btn-sm,
+		&.btn-md,
+		&.btn-lg,
+		&.btn-xl {
+			position: relative;
+			
+			&:before {
+				position: absolute;
+				top: 0;
+				left: 0;
+				padding: 5px;
+				background-color: #242424;
+				color: #fff;
+				font-size: 10px;
+			}
+		}
+		
+		&.btn-xs {
+			&:before {
+				content: "<= 767px";
+			}
+		}
+		&.btn-sm {
+			&:before {
+				content: ">= 768px";
+			}
+		}
+		&.btn-md {
+			&:before {
+				content: ">= 992px";
+			}
+		}
+		&.btn-lg {
+			&:before {
+				content: ">= 1200px";
+			}
+		}
+		&.btn-xl {
+			&:before {
+				content: ">= 1500px";
+			}
+		}
+	}
+	
+	&:before {
+		content: "The smaller image will be displayed for the smaller dimensions.";
+		font-style: italic;
+		font-size: 14px;
+		flex: 0 0 100%;
+		margin-bottom: 10px;
+	}
+}
