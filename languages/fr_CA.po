@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Image Manager\n"
+"POT-Creation-Date: 2023-03-20 21:36-0400\n"
+"PO-Revision-Date: 2023-03-20 21:37-0400\n"
+"Last-Translator: Dave Woodhall <dave.woodhall@duchesne.ca>\n"
+"Language-Team: info@charlie4.ca\n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n;_x;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: languages/strings.php:8
+msgid "Responsive Image Manager"
+msgstr "Gestionnaire d'images adaptatives"
+
+#: languages/strings.php:13
+msgid "Details"
+msgstr "Détails"
+
+#: languages/strings.php:14
+msgid "The most appropriate image will be displayed."
+msgstr "L'image la plus appropriée s'affiche."
+
+#: languages/strings.php:16
+msgid "Add"
+msgstr "Ajouter"
+
+#: languages/strings.php:17
+msgid "Select an image"
+msgstr "Sélectionner une image"
+
+#: languages/strings.php:19
+msgid "Preview"
+msgstr "Aperçu"
+
+#: languages/strings.php:22 languages/strings.php:26 languages/strings.php:30
+#: languages/strings.php:34 languages/strings.php:38
+msgid "Extra small screens"
+msgstr "Écrans très petits"
+
+#: languages/strings.php:23
+msgid "767px wide and less"
+msgstr "767px de large et moins"
+
+#: languages/strings.php:27
+msgid "768px wide and up"
+msgstr "768px de large et plus"
+
+#: languages/strings.php:31
+msgid "992px wide and up"
+msgstr "992px de large et plus"
+
+#: languages/strings.php:35
+msgid "1200px wide and up"
+msgstr "1200px de large et plus"
+
+#: languages/strings.php:39
+msgid "1500px wide and up"
+msgstr "1500px de large et plus"

@@ -32,5 +32,8 @@ The default breakpoints are those of Bootstrap 3, as well as a custom breakpoint
 
 ## Changelog
 
+ - 0.0.2 - *2023-03-20*
+   - Added localization support and included French Canadian (fr_CA) and Canadian English (en_CA)
+   - Added plugin description
  - 0.0.1 - *2023-03-20*
    - Initial version

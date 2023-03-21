@@ -4,7 +4,7 @@
 	} = wp.editor;
 
 	const blockConfig = {
-		title: 'Responsive Image Manager',
+		title: dwrim.plugin_name,
 		icon: 'smiley',
 		category: 'media',
 		attributes: {
@@ -19,8 +19,6 @@
 			md		: { type: 'string', default: '' },
 			lg		: { type: 'string', default: '' },
 			xl		: { type: 'string', default: '' },
-		//	alt   : { type: 'string', default: '' },
-		//	title : { type: 'string', default: '' }
 		},
 		
 		// Editing the <picture> tag
