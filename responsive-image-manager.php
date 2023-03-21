@@ -5,7 +5,7 @@
 	 * Plugin URI:  	https://davewoodhall.com
 	 * Description: 	Adds a shortcode to add <code>&lt;picture></code> with a Gutenberg Block and a TinyMCE button.
 	 * 
-	 * Version:	 		0.0.1
+	 * Version:	 		0.0.2
 	 * Author:	  		Dave Woodhall, Eric Girouard
 	 * Author URI:  	https://github.com/davewoodhall
 	 *
