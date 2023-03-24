@@ -23,19 +23,19 @@
 					'description'		=> __('767px wide and less', 'dwrim'),
 				),
 				'sm'				=> array(
-					'label'				=> __('Extra small screens', 'dwrim'),
+					'label'				=> __('Small screens', 'dwrim'),
 					'description'		=> __('768px wide and up', 'dwrim'),
 				),
 				'md'				=> array(
-					'label'				=> __('Extra small screens', 'dwrim'),
+					'label'				=> __('Medium screens', 'dwrim'),
 					'description'		=> __('992px wide and up', 'dwrim'),
 				),
 				'lg'				=> array(
-					'label'				=> __('Extra small screens', 'dwrim'),
+					'label'				=> __('Large screens', 'dwrim'),
 					'description'		=> __('1200px wide and up', 'dwrim'),
 				),
 				'xl'				=> array(
-					'label'				=> __('Extra small screens', 'dwrim'),
+					'label'				=> __('Extra large screens', 'dwrim'),
 					'description'		=> __('1500px wide and up', 'dwrim'),
 				)
 			),
